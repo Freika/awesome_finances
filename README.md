@@ -36,3 +36,12 @@
 
 - 🆓[Финансовые инструменты для частного инвестора](https://www.coursera.org/specializations/finansovyye-instrumenty)
 
+## Фильмы
+
+- [Игра на понижение (The Big Short, 2015)](https://www.kinopoisk.ru/film/501333/)
+- [Волк с Уолл-стрит(The Wolf of Wall Street, 2013)](https://www.kinopoisk.ru/film/462682/)
+
+## Видео
+
+- [Как работает экономическая машина](https://www.youtube.com/watch?v=8BaNOlIfMLE) (**Must watch**, 30 минут)
+
